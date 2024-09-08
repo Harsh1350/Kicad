@@ -5,10 +5,10 @@ PCB Design of Arduino Nano made on KiCad using ECAD tools. Optimised thermally a
 
 Welcome to the repository for the Arduino Nano design implemented using KiCad PCB Editor. This project involves the creation of a PCB layout for the Arduino Nano, considering various factors such as cost reduction, high-power stability, thermal conduction, and voltage regulation.
 
-Overview
+**Overview**
 The Arduino Nano is a compact and versatile microcontroller board that is widely used in various electronics projects. This repository contains the KiCad PCB design files for the Arduino Nano, along with documentation detailing the design considerations and optimizations performed.
 
-Features
+**Features**
 Utilization of KiCad PCB Editor for designing the Arduino Nano PCB layout.
 Implementation of four-layer PCB design with two inner layers on FR4 substrate for optimal routing.
 Optimization of component placement to reduce costs and minimize cross-conduction for high-power stability.
