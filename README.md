@@ -1,4 +1,6 @@
-Arduino Nano Design with KiCad PCB Editor
+**Arduino Nano Design with KiCad PCB Editor**
+
+
 PCB Design of Arduino Nano made on KiCad using ECAD tools. Optimised thermally and electrically for material and processor protection.
 
 Welcome to the repository for the Arduino Nano design implemented using KiCad PCB Editor. This project involves the creation of a PCB layout for the Arduino Nano, considering various factors such as cost reduction, high-power stability, thermal conduction, and voltage regulation.
